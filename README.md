@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://files.catbox.moe/3sbn7w.png" alt="Header"width="150" height="150">
 <align="right">
-<a href="https://hits.sh/github.com/berrybaker/hits/"><img alt="Hits" src="https://hits.sh/github.com/berrybaker/hits.svg?label=berrycakes&extraCount=34&color=c53419&labelColor=a4bb3d"/></a>
+<a href="https://hits.sh/github.com/kitagawadeco/hits/"><img alt="Hits" src="https://hits.sh/github.com/kitagawadeco/hits.svg?label=%E2%99%A1%20cuties%20%E2%99%A1&extraCount=89&color=f8cede&labelColor=f495b4"/></a>
 <align="right">
 <img src="https://files.catbox.moe/ap6owh.png" alt="Header"width="150" height="150">
 <p align="center">
